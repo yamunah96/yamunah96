@@ -1,71 +1,154 @@
+# Yamuna H
 
+**Python Developer | Machine Learning | AI Engineering | Data Analytics**
 
-### Hey 👋, I'm Yamuna H  
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yamunahgowda/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+I am a technology professional with experience in Python programming, Machine Learning, Deep Learning, and Data Analytics. My work combines technical education with practical application development, focusing on building solutions that address real-world problems.
+
+I am continuously expanding my expertise in Artificial Intelligence through independent study, technical experimentation, and hands-on development.
+
+<a href="https://www.linkedin.com/in/yamunahgowda/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/https://github.com/yamunah96" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://github.com/yamunah96" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Profile-24292e?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.youtube.com/@https://www.youtube.com/@AIShikshana" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-  
+<a href="https://www.youtube.com/@AIShikshana" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-AI_with_Shikshana-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
 
-<br/>  
+---
 
-<br/>  
+## Technical Skills
 
+**Programming and Backend Development**
+- Python, SQL
+- FastAPI, Flask
+- REST API Development
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
-<a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-</div>  
+**Data Analytics**
+- NumPy, Pandas
+- Microsoft Excel, Power BI
+- Data Visualisation and Exploratory Data Analysis
 
-<br/>  
+**Machine Learning and Deep Learning**
+- Scikit-learn
+- TensorFlow, Keras
+- Neural Networks and Convolutional Neural Networks
+- Model Training and Evaluation
 
+**Tools and Platforms**
+- Git, GitHub
+- Jupyter Notebook, Google Colab
+- PostgreSQL, MySQL
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=yamunah96&show_icons=true&count_private=true&hide_border=true" align="left" />
+## Current Learning and Technical Exploration
 
-</td><td valign="top" width="50%">
+- Agentic AI and Autonomous AI Systems
+- AI Agents and Multi-Agent Architectures
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- LLM-powered Applications
+- AI Application Development and Integration
 
+Focused on independent study, practical experimentation, and developing applications using emerging AI technologies.
 
+---
 
-</td></tr></table>  
+## Projects and Practical Work
 
-<br/>  
+My repositories demonstrate practical implementations across the following areas:
 
-  
+**Machine Learning and Deep Learning**
+- Predictive modelling and model evaluation
+- CNN architectures and image classification
+- Neural network implementation
 
-<br/>  
+**Backend Development**
+- REST API development using FastAPI
+- Python application development
+- Backend integration and database connectivity
 
-![Profile views counter](https://komarev.com/ghpvc/?username=yamunah96&&style=flat-square)  
-  
+**Data Analytics**
+- Exploratory data analysis
+- Data visualisation
+- Interactive dashboards and business insights
 
-<br/>  
+**Artificial Intelligence**
+- Exploring intelligent applications
+- Experimenting with LLM-based solutions
+- Developing practical AI applications
 
+---
 
-<br />
+## Knowledge Sharing and Community Contribution
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+### AI with Shikshana
+
+Contributing to the AI learning community through educational content and practical technology tutorials.
+
+Areas covered include:
+
+- Python Programming
+- Artificial Intelligence and Machine Learning
+- Deep Learning
+- Generative AI and Agentic AI
+- Practical AI Applications
+- Coding and Technology Education
+
+[Visit AI with Shikshana on YouTube](https://www.youtube.com/@AIShikshana)
+
+---
+
+## Areas of Interest
+
+Artificial Intelligence | Machine Learning | Generative AI | Agentic AI | Data Science | AI Engineering | Software Development
+
+---
+
+## Languages and Tools
+
+<div align="center">
+
+<a href="https://www.python.org/"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="45" alt="Python"/></a>
+<a href="https://www.tensorflow.org/"><img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" height="45" alt="TensorFlow"/></a>
+<a href="https://keras.io/"><img src="https://profilinator.rishav.dev/skills-assets/keras.png" height="45" alt="Keras"/></a>
+<a href="https://pytorch.org/"><img src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" height="45" alt="PyTorch"/></a>
+<a href="https://opencv.org/"><img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" height="45" alt="OpenCV"/></a>
+<a href="https://fastapi.tiangolo.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45" alt="FastAPI"/></a>
+<a href="https://flask.palletsprojects.com/"><img src="https://profilinator.rishav.dev/skills-assets/flask.png" height="45" alt="Flask"/></a>
+<a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="NumPy"/></a>
+<a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="Pandas"/></a>
+<a href="https://powerbi.microsoft.com/"><img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" height="45" alt="Power BI"/></a>
+<a href="https://www.postgresql.org/"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="45" alt="PostgreSQL"/></a>
+<a href="https://www.mysql.com/"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="45" alt="MySQL"/></a>
+<a href="https://www.docker.com/"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="45" alt="Docker"/></a>
+<a href="https://git-scm.com/"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="45" alt="Git"/></a>
+<a href="https://firebase.google.com/"><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" height="45" alt="Firebase"/></a>
+<a href="https://cloud.google.com/"><img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" height="45" alt="Google Cloud"/></a>
+<a href="https://www.linux.org/"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="45" alt="Linux"/></a>
+
+</div>
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yamunah96&show_icons=true&count_private=true&hide_border=true" alt="GitHub Statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamunah96&layout=compact&hide_border=true" alt="Most Used Languages"/>
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=yamunah96&style=flat-square)
+
+**Building practical solutions through technology and continuous learning.**
+
+</div>
