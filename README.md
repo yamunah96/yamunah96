@@ -61,32 +61,6 @@ Focused on independent study, practical experimentation, and developing applicat
 
 ---
 
-## Projects and Practical Work
-
-My repositories demonstrate practical implementations across the following areas:
-
-**Machine Learning and Deep Learning**
-- Predictive modelling and model evaluation
-- CNN architectures and image classification
-- Neural network implementation
-
-**Backend Development**
-- REST API development using FastAPI
-- Python application development
-- Backend integration and database connectivity
-
-**Data Analytics**
-- Exploratory data analysis
-- Data visualisation
-- Interactive dashboards and business insights
-
-**Artificial Intelligence**
-- Exploring intelligent applications
-- Experimenting with LLM-based solutions
-- Developing practical AI applications
-
----
-
 ## Knowledge Sharing and Community Contribution
 
 ### AI with Shikshana
