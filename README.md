@@ -6,15 +6,20 @@ I am a technology professional with experience in Python programming, Machine Le
 
 I am continuously expanding my expertise in Artificial Intelligence through independent study, technical experimentation, and hands-on development.
 
-<a href="https://www.linkedin.com/in/yamunahgowda/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<div align="center">
+<a href="https://github.com/https://github.com/yamunah96" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/yamunah96" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-Profile-24292e?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/yamunahgowda/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/@AIShikshana" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-AI_with_Shikshana-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>
+<a href="https://www.youtube.com/@https://www.youtube.com/@AIShikshana" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
 
 ---
 
